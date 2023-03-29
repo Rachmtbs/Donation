@@ -1,0 +1,11 @@
+C:\Users\rache\OneDrive\Desktop\Donation2\Donation2\Donation2\bin\Debug\Donation2.exe.config
+C:\Users\rache\OneDrive\Desktop\Donation2\Donation2\Donation2\bin\Debug\Donation2.exe
+C:\Users\rache\OneDrive\Desktop\Donation2\Donation2\Donation2\bin\Debug\Donation2.pdb
+C:\Users\rache\OneDrive\Desktop\Donation2\Donation2\Donation2\obj\Debug\Donation2.csproj.AssemblyReference.cache
+C:\Users\rache\OneDrive\Desktop\Donation2\Donation2\Donation2\obj\Debug\Donation2.csproj.SuggestedBindingRedirects.cache
+C:\Users\rache\OneDrive\Desktop\Donation2\Donation2\Donation2\obj\Debug\Donation2.DonationList.resources
+C:\Users\rache\OneDrive\Desktop\Donation2\Donation2\Donation2\obj\Debug\Donation2.Properties.Resources.resources
+C:\Users\rache\OneDrive\Desktop\Donation2\Donation2\Donation2\obj\Debug\Donation2.csproj.GenerateResource.cache
+C:\Users\rache\OneDrive\Desktop\Donation2\Donation2\Donation2\obj\Debug\Donation2.csproj.CoreCompileInputs.cache
+C:\Users\rache\OneDrive\Desktop\Donation2\Donation2\Donation2\obj\Debug\Donation2.exe
+C:\Users\rache\OneDrive\Desktop\Donation2\Donation2\Donation2\obj\Debug\Donation2.pdb

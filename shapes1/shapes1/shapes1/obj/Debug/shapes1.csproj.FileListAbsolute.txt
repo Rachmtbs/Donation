@@ -1,0 +1,6 @@
+C:\Users\rache\OneDrive\Desktop\shapes1\shapes1\shapes1\obj\Debug\shapes1.csproj.AssemblyReference.cache
+C:\Users\rache\OneDrive\Desktop\shapes1\shapes1\shapes1\obj\Debug\shapes1.csproj.SuggestedBindingRedirects.cache
+C:\Users\rache\OneDrive\Desktop\shapes1\shapes1\shapes1\obj\Debug\shapes1.Form1.resources
+C:\Users\rache\OneDrive\Desktop\shapes1\shapes1\shapes1\obj\Debug\shapes1.Properties.Resources.resources
+C:\Users\rache\OneDrive\Desktop\shapes1\shapes1\shapes1\obj\Debug\shapes1.csproj.GenerateResource.cache
+C:\Users\rache\OneDrive\Desktop\shapes1\shapes1\shapes1\obj\Debug\shapes1.csproj.CoreCompileInputs.cache
